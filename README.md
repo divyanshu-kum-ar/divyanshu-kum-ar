@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=divyanshu-kum-ar&show_icons=true&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=divyanshu-kum-ar&theme=tokyonight)ct)
+![](https://streak-stats.demolab.com?user=divyanshu-kum-ar&theme=tokyonight)
 
 
 ## 🐍 Contribution Snake
