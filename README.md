@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me
-* 🎓 Pre-Final Year CSE Student at IMS Engineering College (IMSEC), Ghaziabad<br>* 💻 Aspiring MERN Stack Developer & Software Development Engineer (SDE)<br>* 🌱 Currently learning MERN Stack, DSA, and Backend Development<br>* 🚀 Passionate about Full-Stack Web Development and Problem Solving<br>* 🤝 Open to internships, collaborations, and open-source contributions<br>* ⚡ Always learning, building, and improving<br>
+* 🎓 Final Year CSE Student at IMS Engineering College (IMSEC), Ghaziabad<br>* 💻 Aspiring MERN Stack Developer & Software Development Engineer (SDE)<br>* 🌱 Currently learning MERN Stack, DSA, and Backend Development<br>* 🚀 Passionate about Full-Stack Web Development and Problem Solving<br>* 🤝 Open to internships, collaborations, and open-source contributions<br>* ⚡ Always learning, building, and improving<br>
 
 ## 🎓 Education
 
