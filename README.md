@@ -1,13 +1,12 @@
 
-
-<h1 align="center">Hi 👋, I'm Divyanshu Kumar</h1>
+ <h1 align="center">Hi 👋, I'm Divyanshu Kumar</h1>
 
 <h3 align="center">
-Aspiring Software Development Engineer (SDE) | MERN Stack Developer
+  Final Year CSE Student @ IMSEC | Aspiring SDE | MERN Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Development+Engineer;MERN+Stack+Developer;Java+Developer;Problem+Solver;Pre-Final+Year+CSE+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Development+Engineer;Full-Stack+MERN+Developer;Building+AI-Powered+Web+Applications;Java+%26+Backend+Development;DSA+%26+Problem+Solving;Open+to+Freelance+Projects" alt="Typing SVG" />
 </p>
 
 <!-- <p align="center">
@@ -20,7 +19,7 @@ Aspiring Software Development Engineer (SDE) | MERN Stack Developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ 🎓 Pursuing B.Tech in Computer Science & Engineering with a CGPA of 8.5
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -30,7 +29,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me
-* 🎓 Final Year CSE Student at IMS Engineering College (IMSEC), Ghaziabad<br>* 💻 Aspiring MERN Stack Developer & Software Development Engineer (SDE)<br>* 🌱 Currently learning MERN Stack, DSA, and Backend Development<br>* 🚀 Passionate about Full-Stack Web Development and Problem Solving<br>* 🤝 Open to internships, collaborations, and open-source contributions<br>* ⚡ Always learning, building, and improving<br>
+ 🎓 Pursuing B.Tech in Computer Science & Engineering with a CGPA of 8.5
+
+💻 Full-Stack Web Developer specializing in the MERN Stack
+
+🚀 Building scalable, responsive, and user-friendly web applications
+
+🤖 Integrating AI capabilities into real-world applications using Gemini API
+
+🧠 Strengthening my Data Structures & Algorithms and problem-solving skills
+
+🛠️ Experienced in developing projects involving authentication, REST APIs, real-time communication, and interactive dashboards
+
+💼 Open to Software Development Engineer (SDE) roles, campus placements, and internships
+
+🤝 Available for freelance web development projects, website development, and full-stack solutions
+
+⚡ Focused on writing clean code, learning new technologies, and building impactful products
+  <br>
 
 ## 🎓 Education
 
@@ -45,60 +61,67 @@ Here are some ideas to get you started:
 
 ## 💻 Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=flat&logo=Puppeteer&logoSize=auto&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=black" />
-</div>
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI-Powered Job Preparation Platform
+An AI-powered career preparation platform designed to help job seekers improve their resumes, practice interviews, evaluate their performance, and identify skill gaps.
 
-> MERN Stack | Gemini API | JWT | Puppeteer
+>React.js, Vite, Node.js, Express.js, Google Gemini API, JWT Authentication, Puppeteer, PDF/DOCX Processing, REST APIs
 
-* Resume Analysis & ATS Feedback
-* Skill Gap Detection
-* AI-generated Interview Questions
-* Secure JWT Authentication
+📄 AI-powered resume analysis and ATS feedback
 
----
+🎯 Skill gap identification and improvement recommendations
 
-### 💰 Expense Tracker with AI Insights
+💬 AI-generated interview questions and mock interviews
 
-> MERN Stack | Firebase | Gemini API
+📊 Interview scoring and personalized feedback
 
-* Smart Expense Tracking
-* AI-powered Financial Insights
-* Interactive Analytics Dashboard
-* PDF & Excel Report Export
+🔐 Secure authentication using JWT
+
+📑 Automated document generation and processing
 
 ---
 
-### 📋 Task Management Web Application
+### 💰 FinPilot AI — Smart Expense Management
+An AI-powered personal finance application that helps users track income and expenses, understand spending patterns, and make more informed financial decisions through interactive analytics and AI-generated insights.
 
-> React.js | Context API | Vite
+>  React.js, Vite, Firebase Authentication, Cloud Firestore, Google Gemini API, Chart.js/Recharts, PDF & Excel Export Libraries
 
-* Complete CRUD Operations
-* Centralized State Management
-* Responsive User Interface
-* Performance Optimized
+💸 Income and expense tracking
+
+📊 Interactive financial dashboards and charts
+
+🤖 AI-generated financial insights using Gemini API
+
+📈 Spending analysis and personalized recommendations
+
+📄 PDF and Excel report exports
+
+🔥 Firebase integration
+
+---
+
+### 💬 NovaTalk — Real-Time Messaging Platform
+A full-stack messaging application built to enable seamless communication through one-to-one conversations, group chats, media sharing, and real-time messaging features
+
+> React.js, Vite, Context API, Node.js, Express.js, Socket.IO, MongoDB, Mongoose, JWT Authentication, bcrypt, WebRTC
+
+💬 One-to-one and group messaging
+
+⚡ Real-time communication using Socket.IO
+
+⌨️ Typing indicators and read receipts
+
+😊 Message reactions and media/file sharing
+
+📞 Voice and video calling
+
+🔐 Secure authentication using JWT
+
+📱 Responsive UI and Progressive Web App (PWA) support
 
 
   ## 🏆 Achievements
